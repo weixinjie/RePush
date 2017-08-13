@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/will/Android_DownLoad_Demo/RePush/client_umeng_lib/assets"/><source path="/Users/will/Android_DownLoad_Demo/RePush/client_umeng_lib/build/generated/assets/shaders/release"/></dataSet><dataSet config="release"><source path="/Users/will/Android_DownLoad_Demo/RePush/client_umeng_lib/build-types/release/assets"/></dataSet></merger>

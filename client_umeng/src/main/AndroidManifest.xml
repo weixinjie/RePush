@@ -1,0 +1,21 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+
+    package="will.github.com.client_umeng">
+
+    <application
+        android:allowBackup="true"
+        android:label="@string/app_name"
+        android:supportsRtl="true">
+
+        <!--友盟推送begijn-->
+        <meta-data
+            android:name="UMENG_APPKEY"
+            android:value="repush_custome" />
+        <meta-data
+            android:name="UMENG_MESSAGE_SECRET"
+            android:value="repush_custome" />
+        <!--友盟推送end-->
+
+    </application>
+
+</manifest>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/RePush.iml" filepath="$PROJECT_DIR$/RePush.iml" />
+      <module fileurl="file://$PROJECT_DIR$/client_huawei/client_huawei.iml" filepath="$PROJECT_DIR$/client_huawei/client_huawei.iml" />
+      <module fileurl="file://$PROJECT_DIR$/client_umeng/client_umeng.iml" filepath="$PROJECT_DIR$/client_umeng/client_umeng.iml" />
+      <module fileurl="file://$PROJECT_DIR$/client_umeng_lib/client_umeng_lib.iml" filepath="$PROJECT_DIR$/client_umeng_lib/client_umeng_lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/client_xiaomi/client_xiaomi.iml" filepath="$PROJECT_DIR$/client_xiaomi/client_xiaomi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/demo.iml" filepath="$PROJECT_DIR$/demo/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/repush_master/repush_master.iml" filepath="$PROJECT_DIR$/repush_master/repush_master.iml" />
+    </modules>
+  </component>
+</project>

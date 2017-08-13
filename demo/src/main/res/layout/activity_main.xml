@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="will.github.com.MainActivity">
+
+    <Button
+        android:id="@+id/bt_open_push"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="开启推送" />
+
+    <Button
+        android:id="@+id/bt_close_push"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="关闭推送" />
+
+    <Button
+        android:id="@+id/bt_set_alias"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="设置别名" />
+
+    <Button
+        android:id="@+id/bt_set_tags"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="设置标签" />
+
+    <Button
+        android:id="@+id/bt_get_token"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="获取当前推送token" />
+
+    <TextView
+        android:id="@+id/tv_current_platform"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp" />
+</LinearLayout>
